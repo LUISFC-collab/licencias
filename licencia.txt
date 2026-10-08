@@ -1,0 +1,5 @@
+ANDAMIOS-LICENCIA
+# Una linea por PC autorizada:  CODIGO ; nombre
+# Para quitar la licencia a una PC, borra su linea. Para autorizar todas las PCs, escribe TODOS.
+# Si borras este archivo (o el repositorio), el programa deja de funcionar en todas las PCs.
+BFC3-1342 ; Luis (PC principal)
